@@ -24,5 +24,6 @@ Output Format:
 
 print the required answer in a single line
 
-Constraints:
+![constraints](https://cloud.githubusercontent.com/assets/12026696/21293973/97cc69f4-c558-11e6-9e6e-e996845c7c83.jpg)
+
 
