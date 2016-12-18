@@ -11,6 +11,9 @@ The Attraction-Force between two particls i and j defined as:
 Since all of them are in a straight line, distance between any 2 particles is equal to the 
 absolute difference between their positions.
 
+![i](https://cloud.githubusercontent.com/assets/12026696/21294065/e0f5a22e-c55a-11e6-8a8c-1c6ed9442bf2.png)
+
+
 
 **Can you do it?**
 
